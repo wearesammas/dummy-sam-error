@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://t-sam2.sammas.io/sitemap.xml
