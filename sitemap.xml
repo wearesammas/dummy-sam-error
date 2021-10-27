@@ -1,28 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>
-			https://t-sam2.sammas.io
-		</loc>
-	</url>
-	<url>
-		<loc>
-			https://t-sam2.sammas.io/index.html
-		</loc>
-	</url>
-	<url>
-		<loc>
-			https://t-sam2.sammas.io/generic.html
-		</loc>
-	</url>
-	<url>
-		<loc>
-			https://t-sam2.sammas.io/elements.html
-		</loc>
-	</url>
-	<url>
-		<loc>
-			https://t-sam2.sammas.io/post2.html
-		</loc>
-	</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//t-sam2.sammas.io/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://t-sam2.sammas.io/post-sitemap.xml</loc>
+		<lastmod>2021-06-29T09:28:08+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://t-sam2.sammas.io/page-sitemap.xml</loc>
+		<lastmod>2021-10-14T11:44:06+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://t-sam2.sammas.io/category-sitemap.xml</loc>
+		<lastmod>2021-06-29T09:28:08+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://t-sam2.sammas.io/author-sitemap.xml</loc>
+		<lastmod>2020-03-31T09:35:43+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
