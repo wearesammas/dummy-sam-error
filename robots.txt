@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /elements.html
 Allow: /
 
 Sitemap: http://t-sam2.sammas.io/sitemap.xml
